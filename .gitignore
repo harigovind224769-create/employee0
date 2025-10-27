@@ -12,4 +12,4 @@ logs/
 *.log
 
 # Dist / build output
-dist/
+# (removed dist/ so built frontend can be tracked when needed)
